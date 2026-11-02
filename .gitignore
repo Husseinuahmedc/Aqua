@@ -1,0 +1,31 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated outputs and local datasets
+results/
+data/local/
+data/downloads/
+data/raw/
+data/datasets/
+
+# Temporary files and common OS metadata
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.log
+.DS_Store
+Thumbs.db
+docs/
+AGENTS.md
+DESIGN.md
+.impeccable/
+.codex/
+graphify-out/
+results/

@@ -1,0 +1,7 @@
+# Approved direct dependencies; transitive pins are recorded in requirements-lock.txt.
+PySide6==6.12.0
+opencv-python==5.0.0.93
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+pytest==9.2.0
